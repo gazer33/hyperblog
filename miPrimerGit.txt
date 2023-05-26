@@ -4,3 +4,5 @@ hola que tal este es la primera ves utilizando y entendiendo a git
 
 
 creo que si
+
+estamos haciendo otro cambio por que este wey del curso lo pidio
