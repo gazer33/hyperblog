@@ -1,12 +1,6 @@
 body
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
     background: #1e1f24;
-=======
->>>>>>> footer
-=======
->>>>>>> header
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -17,15 +11,7 @@ body
 
 #cabecera
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
     background: #37488b;
-=======
-    background: #33A;
->>>>>>> footer
-=======
-    background: #33A;
->>>>>>> header
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -33,8 +19,6 @@ body
     padding: 0.5em;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 #cabecera #logo
 {
     width: 20px;
@@ -48,24 +32,6 @@ body
     font-size: 0.8em;
 }
 
-=======
-#cabecera #tagline
-{
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
-}
-
->>>>>>> footer
-=======
-#cabecera #tagline
-{
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
-}
-
->>>>>>> header
 #container
 {
     width: 70%;
@@ -81,30 +47,6 @@ body
 }
 #post
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
     background: white;
     padding: 1em;
 }
-=======
-=======
->>>>>>> header
-    padding: 1em;
-}
-
-#footer
-{
-    background: #777;
-    color: white;
-    text-align: center;
-    padding: 0.5em;
-}
-<<<<<<< HEAD
-
->>>>>>> footer
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> 23ba67c2a95d5e659a19cea1e806ce2d1b0f49fb
->>>>>>> header
